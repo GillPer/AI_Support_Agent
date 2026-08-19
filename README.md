@@ -745,7 +745,7 @@ This project demonstrates practical understanding of:
 
 ## 👨‍💻 Author
 
-**Geep**
+**Gillian Pereira**
 
 Full Stack Software Engineer
 
