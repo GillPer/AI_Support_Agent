@@ -1,5 +1,3 @@
-# AI_Support_Agent
-
 # 🤖 AI Support Agent
 
 A lightweight AI-driven IT Support Agent built with **Java and Spring Boot** that demonstrates **agentic AI concepts, intelligent decision-making, prompt engineering, workflow orchestration, confidence-based routing, and automated support actions**.
